@@ -1,6 +1,6 @@
 ---
 title: Прошедшая неделя
-summary:
+summary: что было на прошлой неделе интересного
 date: 2025-03-21
 
 # Featured image
