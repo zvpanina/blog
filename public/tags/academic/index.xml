@@ -2,21 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | Hugo Academic CV Theme</title>
-    <link>http://localhost:36087/tags/academic/</link>
-      <atom:link href="http://localhost:36087/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/academic/</link>
+      <atom:link href="http://localhost:1313/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:36087/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Academic</title>
-      <link>http://localhost:36087/tags/academic/</link>
+      <link>http://localhost:1313/tags/academic/</link>
     </image>
     
     <item>
+      <title>Прошедшая неделя</title>
+      <link>http://localhost:1313/post/post1/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post1/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#рамт&#34;&gt;РАМТ&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#домашнее-задание&#34;&gt;Домашнее задание&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#погода&#34;&gt;Погода&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#музыка&#34;&gt;Музыка&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#оценка-недели&#34;&gt;Оценка недели&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#дам-910-чтобы-было-1010-должно-быть-всё-идеально-а-у-кого-не-случается-ни-одного-расстройства-за-целую-неделю&#34;&gt;Дам 9/10. Чтобы было 10/10, должно быть всё идеально, а у кого не случается ни одного расстройства за целую неделю!&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;рамт&#34;&gt;РАМТ&lt;/h2&gt;
+&lt;p&gt;На выходных сделала много полезного. Сделала генеральную уборку в комнате, читала книги, делала лабораторные работы. Стараюсь наладить режим сна, правильно питаюсь. Каждое утро начинаю с зарядки, растяжки и музыки. Это очень помогает проснуться, разогреть тело, поднимает настроение и желание начинать новый день. Событие недели произошло сегодня: в Москву приехал папа, мы повидались несколько часов, я очень рада)&lt;/p&gt;
+&lt;h2 id=&#34;домашнее-задание&#34;&gt;Домашнее задание&lt;/h2&gt;
+&lt;p&gt;Домашнего задания на неделе было не так много, но ближе к выходным накопилось. Сейчас как раз делаю проект и лабораторную работу по операционным системам. Из оставшихся нужно сделать доклад по истории к субботе, написать код по технологии программирования. Домашка меня не радует, я хочу гулять:(&lt;/p&gt;
+&lt;h2 id=&#34;погода&#34;&gt;Погода&lt;/h2&gt;
+&lt;p&gt;Погодка на неделе выдалась странная, переменчивая. То снег и -6, то солнце и +7, как, например, сегодня. Скорее бы полноценная весна, греться на солнце и радоваться жизни.&lt;/p&gt;
+&lt;h2 id=&#34;музыка&#34;&gt;Музыка&lt;/h2&gt;
+&lt;p&gt;На этой неделе слушаю супер спокойные, лёгкие весенние песни, чаще всего почему-то  французские. Также в моём плейлисте в последние дни частенько звучал Элвис Пресли и другие талантливые исполнители той эпохи. Не могу не отметить оперу: партии Лючиано Паваротти из такой оперной классики как &amp;ldquo;Риголетто&amp;rdquo; Джузеппе Верди, &amp;ldquo;Кармен&amp;rdquo; Жоржа Бизе, а также &amp;ldquo;Маскарад&amp;rdquo; Арама Хачатуряна. Очень талантливо и берёт за душу, приносит какое-то умиротворение.&lt;/p&gt;
+&lt;h2 id=&#34;оценка-недели&#34;&gt;Оценка недели&lt;/h2&gt;
+&lt;h2 id=&#34;дам-910-чтобы-было-1010-должно-быть-всё-идеально-а-у-кого-не-случается-ни-одного-расстройства-за-целую-неделю&#34;&gt;Дам 9/10. Чтобы было 10/10, должно быть всё идеально, а у кого не случается ни одного расстройства за целую неделю!&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Управление версиями</title>
-      <link>http://localhost:36087/post/get-started/</link>
+      <link>http://localhost:1313/post/get-started/</link>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36087/post/get-started/</guid>
+      <guid>http://localhost:1313/post/get-started/</guid>
       <description>
 
 
