@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/academic/</link>
       <atom:link href="http://localhost:1313/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Academic</title>
@@ -13,10 +13,81 @@
     </image>
     
     <item>
+      <title>Оформление отчёта</title>
+      <link>http://localhost:1313/posts/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#основные-разделы-отчёта&#34;&gt;Основные разделы отчёта&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#полезные-элементы-markdown&#34;&gt;Полезные элементы Markdown&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#итог&#34;&gt;Итог&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#оформление-отчёта---важная-часть-любой-работы-markdown--это-лёгкий-в-освоении-язык-разметки-который-идеально-подходит-для-оформления-отчётов-особенно-в-технических-и-учебных-дисциплинах-он-позволяет-создавать-структурированные-читаемые-и-легко-конвертируемые-в-pdf-или-html-документы&#34;&gt;Оформление отчёта - важная часть любой работы. Markdown — это лёгкий в освоении язык разметки, который идеально подходит для оформления отчётов, особенно в технических и учебных дисциплинах. Он позволяет создавать структурированные, читаемые и легко конвертируемые в PDF или HTML документы.&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;основные-разделы-отчёта&#34;&gt;Основные разделы отчёта&lt;/h2&gt;
+&lt;p&gt;При оформлении отчёта важно включать следующие обязательные разделы:&lt;/p&gt;
+&lt;h4 id=&#34;цель-работы&#34;&gt;Цель работы&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Краткое описание того, зачем проводится работа. Например:
+Цель работы — ознакомиться с базовыми командами оболочки Linux и научиться создавать скрипты.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;задание&#34;&gt;Задание&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Список или текст с указанием, что необходимо выполнить в ходе лабораторной. Это может быть как текстовое описание, так и список:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-mysql&#34; data-lang=&#34;mysql&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;**&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;Задание&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;**&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;Установить&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;пакет&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;`&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;htop&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;`&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;Создать&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;скрипт&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;`&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;backup&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;sh&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;`&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;Настроить&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;cron&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;задачу&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;теоретическое-введение&#34;&gt;Теоретическое введение&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Объяснение ключевых понятий и подходов, необходимых для выполнения работы. Здесь можно использовать списки, выделения, заголовки, ссылки:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;**Термины:**
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; *Shell* — командная оболочка UNIX. *Script* — файл с набором команд.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;ход-выполнения-работы&#34;&gt;Ход выполнения работы&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Подробное описание этапов выполнения с пояснениями, кодом, выводами команд и, при необходимости, изображениями.
+Вы можете вставлять скриншоты следующим образом:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![Результат выполнения скрипта](images/script_output.png)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Для вставки кода:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;echo&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;Hello, world!&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;выводы-что-сделано-чему-научились-с-какими-трудностями-столкнулись-например&#34;&gt;Выводы: что сделано, чему научились, с какими трудностями столкнулись. Например:&lt;/h4&gt;
+&lt;p&gt;В ходе работы были освоены базовые команды shell и создан автоматический скрипт резервного копирования. Теперь я понимаю принципы работы cron и могу автоматизировать простые задачи.&lt;/p&gt;
+&lt;h3 id=&#34;полезные-элементы-markdown&#34;&gt;Полезные элементы Markdown&lt;/h3&gt;
+&lt;p&gt;Заголовки: #, ##, ### — для логической структуры.&lt;/p&gt;
+&lt;p&gt;Код: тройные кавычки или одинарные обратные (`) — для вставки кода.&lt;/p&gt;
+&lt;p&gt;Списки: -, * или 1. — для маркированных и нумерованных списков.&lt;/p&gt;
+&lt;p&gt;Ссылки:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[GitHub](https://github.com)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Изображения:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![Описание](путь_или_URL)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;итог&#34;&gt;Итог&lt;/h2&gt;
+&lt;h2 id=&#34;оформление-отчёта---важная-часть-любой-работы-markdown--это-лёгкий-в-освоении-язык-разметки-который-идеально-подходит-для-оформления-отчётов-особенно-в-технических-и-учебных-дисциплинах-он-позволяет-создавать-структурированные-читаемые-и-легко-конвертируемые-в-pdf-или-html-документы&#34;&gt;Оформление отчёта - важная часть любой работы. Markdown — это лёгкий в освоении язык разметки, который идеально подходит для оформления отчётов, особенно в технических и учебных дисциплинах. Он позволяет создавать структурированные, читаемые и легко конвертируемые в PDF или HTML документы.&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Прошедшая неделя</title>
-      <link>http://localhost:1313/post/post2/</link>
-      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post2/</guid>
+      <link>http://localhost:1313/posts/post3/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post3/</guid>
       <description>
 
 
@@ -30,7 +101,100 @@
     &lt;li&gt;&lt;a href=&#34;#погода&#34;&gt;Погода&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#музыка&#34;&gt;Музыка&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#оценка-недели&#34;&gt;Оценка недели&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#снова-дам-910-контрольные-и-погода-во-всём-виноваты&#34;&gt;Снова дам 9/10. Контрольные и погода во всём виноваты!!&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;рутина&#34;&gt;Рутина&lt;/h2&gt;
+&lt;p&gt;Неделя выдалась богатая на события. Очень много новых людей пришло в мою жизнь, в понедельник ночью поздравляли Тиму с днём рождения, пожелали ему выиграть &amp;ldquo;Студент года&amp;rdquo;. Так и сучилось: он получил приз зрительских симпатий, что мы благополучно отметили. Хочу также упомянуть свой любимый мятный смузи, который я беру в небезызвестном заведении. Очень вкусный, выпила две порции в тот вечер и поехала отдыхать. Выходные прошли весело и пролетели со свистом. Поверьте, было весело. Вообще на неделе много гуляли, также активно готовимся к второму этапу школы кураторов, много было встреч и съёмок, многое ещё предстоит сделать за ближайшие два дня.&lt;/p&gt;
+&lt;h2 id=&#34;учёба&#34;&gt;Учёба&lt;/h2&gt;
+&lt;p&gt;Учёба на этой неделе ощущалась не так явно из-за обилия других дел. Но про вчерашнее даже говорить не хочу: занятие по технологии программирования просто повергло меня в шок! Нужно сделать одновременно пятьсот лабораторных работ, для каждой при этом переворотить немало теории, написать отчёты и защитить их. И это всё выпадает как раз на те сроки, когда я буду заниматься жизненно важными делами и мне будет не до этого!! Почему всё скопом в одно время???!! По-прежнему единственное, что не приносит нервов - это испанский язык.&lt;/p&gt;
+&lt;h2 id=&#34;погода&#34;&gt;Погода&lt;/h2&gt;
+&lt;p&gt;Опять калейдоскоп. Неделю была просто невыносимая жара, лето, +25,  дальше резко +5 и ветер - пришлось обратно доставать куртку и пальто, а сегодня, в праздник весны и труда, весь день шёл ливень. Но я люблю такое, когда сидишь дома, занимаешься учёбой, смотришь фильмы или читаешь книги, в целом делаешь что угодно, - смотришь в окно, а там всё зелёное и идёт ливень, такой приятный свежий запах и успокаивающий звук дождя. Сто из ста.&lt;/p&gt;
+&lt;h2 id=&#34;музыка&#34;&gt;Музыка&lt;/h2&gt;
+&lt;p&gt;Помимо моей любимой группы INXS, можно сказать, что выдалась женская неделя в плане музыки: Адель, Сия, Шинейд О&amp;rsquo;Коннор, Эми Уанхаус и другие, а также в большом количестве Бруно Марс.&lt;/p&gt;
+&lt;h2 id=&#34;оценка-недели&#34;&gt;Оценка недели&lt;/h2&gt;
+&lt;p&gt;8/10. Наверное из-за погодных перемен вялое состояние, а также все разъехались по своим городам((&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Язык разметки Markdown</title>
+      <link>http://localhost:1313/posts/markdown/</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/markdown/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#язык-разметки&#34;&gt;Язык разметки&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#основные-команды-markdown&#34;&gt;Основные команды Markdown&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#итог&#34;&gt;Итог&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#markdown-легко-конвертируется-в-html-открывается-во-всех-текстовых-редакторах-и-легко-читается-даже-в-виде-исходного-кода-при-этом-писать-на-нём-куда-проще-чем-на-других-языках-разметки-html-xml-tex-и-так-далее&#34;&gt;Язык разметки Markdown широко распространён в вебе. На нём пишут readme-файлы и документацию, а его принципы работы используют для оформления сообщений и публикаций в мессенджерах и социальных сетях.
+Markdown легко конвертируется в HTML, открывается во всех текстовых редакторах и легко читается даже в виде исходного кода. При этом писать на нём куда проще, чем на других языках разметки: HTML, XML, TeX и так далее.&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;язык-разметки&#34;&gt;Язык разметки&lt;/h2&gt;
+&lt;p&gt;Языком разметки в сфере IT называют некий набор символов и их последовательностей, внедряемых в текст с целью передачи информации о структуре этого документа и его конечном виде. В итоге текстовый документ выглядит как текст со всеми знаками препинания, дополненный кодом с информацией о структуре данного текста.
+Markdown - это облегчённый язык разметки, который преобразует текст в структурированный HTML.Его можно открывать и изменять в любом редакторе текста. Широко используется для написания документаций и README-файлов.&lt;/p&gt;
+&lt;h2 id=&#34;основные-команды-markdown&#34;&gt;Основные команды Markdown&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Чтобы создать заголовок, используйте знак ( # ).&lt;/li&gt;
+&lt;li&gt;Чтобы задать для текста полужирное начертание, заключите его в двойные звездочки.&lt;/li&gt;
+&lt;li&gt;Чтобы задать для текста курсивное начертание, заключите его в одинарные звездочки.&lt;/li&gt;
+&lt;li&gt;Чтобы задать для текста полужирное и курсивное начертание, заключите его в тройные звездочки.&lt;/li&gt;
+&lt;li&gt;Блоки цитирования создаются с помощью символа &amp;gt;.&lt;/li&gt;
+&lt;li&gt;Неупорядоченный (маркированный) список можно отформатировать с помощью звездочек или тире.&lt;/li&gt;
+&lt;li&gt;Чтобы вложить один список в другой, добавьте отступ для элементов дочернего списка.&lt;/li&gt;
+&lt;li&gt;Упорядоченный список можно отформатировать с помощью соответствующих цифр.&lt;/li&gt;
+&lt;li&gt;Чтобы вложить один список в другой, добавьте отступ для элементов дочернего списка.
+Синтаксис Markdown для встроенной ссылки состоит из части [link text] , представляющей текст гиперссылки, и части (file-name.md) – URL-адреса или имени файла, на который дается ссылка. Markdown поддерживает как встраивание фрагментов кода в предложение, так и их размещение между предложениями в виде отдельных огражденных блоков. Огражденные блоки кода — это простой способ выделить синтаксис для фрагментов кода.
+Внутритекстовые формулы делаются аналогично формулам LaTeX.
+Для обработки файлов в формате Markdown будем использовать Pandoc. Конкретно, нам понадобится программа pandoc, pandoc-citeproc &lt;a href=&#34;https://github.com/jgm/pandoc/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/jgm/pandoc/releases&lt;/a&gt;, pandoc-crossref
+&lt;a href=&#34;https://github.com/lierdakil/pandoc-crossref/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/lierdakil/pandoc-crossref/releases&lt;/a&gt;.
+Преобразовать файл README.md можно следующим образом:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;pandoc README.md -o README.pdf
+или так&lt;/li&gt;
+&lt;li&gt;pandoc README.md -o README.docx
+Можно использовать следующий Makefile&lt;/li&gt;
+&lt;li&gt;FILES = $(patsubst %.md, %.docx, $(wildcard *.md))&lt;/li&gt;
+&lt;li&gt;FILES += $(patsubst %.md, %.pdf, $(wildcard *.md))&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;итог&#34;&gt;Итог&lt;/h2&gt;
+&lt;h2 id=&#34;markdown-легко-конвертируется-в-html-открывается-во-всех-текстовых-редакторах-и-легко-читается-даже-в-виде-исходного-кода-при-этом-писать-на-нём-куда-проще-чем-на-других-языках-разметки-html-xml-tex-и-так-далее&#34;&gt;Язык разметки Markdown широко распространён в вебе. На нём пишут readme-файлы и документацию, а его принципы работы используют для оформления сообщений и публикаций в мессенджерах и социальных сетях.
+Markdown легко конвертируется в HTML, открывается во всех текстовых редакторах и легко читается даже в виде исходного кода. При этом писать на нём куда проще, чем на других языках разметки: HTML, XML, TeX и так далее.&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Прошедшая неделя</title>
+      <link>http://localhost:1313/posts/post2/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post2/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#рутина&#34;&gt;Рутина&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#учёба&#34;&gt;Учёба&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#погода&#34;&gt;Погода&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#музыка&#34;&gt;Музыка&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#оценка-недели&#34;&gt;Оценка недели&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
   &lt;/div&gt;
@@ -45,15 +209,16 @@
 &lt;h2 id=&#34;музыка&#34;&gt;Музыка&lt;/h2&gt;
 &lt;p&gt;Погрузилась в какие-то воспоминания давно минувших лет, включив свой плейлист с конца. А там было всё: и русский рэп, и легендарный зарубежный хип-хоп нулевых, и 80-е с Боуи и Queen, и вечно жизнерадостная Испания, которая звучала в каждом доме, где работало радио по солнечным выходным дням. Прям ностальгия, которая словно возвращается в моду в мире моих предпочтений.&lt;/p&gt;
 &lt;h2 id=&#34;оценка-недели&#34;&gt;Оценка недели&lt;/h2&gt;
-&lt;h2 id=&#34;снова-дам-910-контрольные-и-погода-во-всём-виноваты&#34;&gt;Снова дам 9/10. Контрольные и погода во всём виноваты!!&lt;/h2&gt;
+&lt;p&gt;Снова дам 9/10. Контрольные и погода во всём виноваты!!&lt;/p&gt;
+&lt;hr&gt;
 </description>
     </item>
     
     <item>
       <title>Прошедшая неделя</title>
-      <link>http://localhost:1313/post/post1/</link>
+      <link>http://localhost:1313/posts/post1/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post1/</guid>
+      <guid>http://localhost:1313/posts/post1/</guid>
       <description>
 
 
@@ -88,9 +253,9 @@
     
     <item>
       <title>Управление версиями</title>
-      <link>http://localhost:1313/post/get-started/</link>
+      <link>http://localhost:1313/posts/get-started/</link>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/get-started/</guid>
+      <guid>http://localhost:1313/posts/get-started/</guid>
       <description>
 
 

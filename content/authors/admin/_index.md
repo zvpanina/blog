@@ -37,6 +37,20 @@ profiles:
     url: https://www.instagram.com/ur.intriguer
   - icon: brands/github
     url: https://github.com/zvpanina
+  - icon: brands/ebook
+    url: https://www.elibrary.ru/project_user_office.asp?
+  - icon: brands/scholar
+    url: https://scholar.google.com/
+  - icon: brands/orcid
+    url: https://orcid.org/0009-0005-1445-1480
+  - icon: brands/mendeley
+    url: https://www.mendeley.com/
+  - icon: brands/research
+    url: https://www.researchgate.net/profile/Jeanne-Panina?ev=hdr_xprf
+  - icon: brands/academia
+    url: https://independent.academia.edu/%D0%96%D0%9F%D0%B0%D0%BD%D0%B8%D0%BD%D0%B0
+  - icon: brands/arxiv
+    url: https://info.arxiv.org/
 
 interests:
   - Искусство
