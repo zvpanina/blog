@@ -14,9 +14,9 @@
     
     <item>
       <title>Управление версиями</title>
-      <link>http://localhost:1313/posts/get-started/</link>
+      <link>http://localhost:1313/post/get-started/</link>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/get-started/</guid>
+      <guid>http://localhost:1313/post/get-started/</guid>
       <description>
 
 
@@ -65,6 +65,14 @@
 &lt;h2 id=&#34;итог&#34;&gt;Итог&lt;/h2&gt;
 &lt;p&gt;Git, благодаря своей скорости, гибкости и распределенной архитектуре, хорошо подходит для разработки различных проектов и обладает обширными возможностями для настройки и интеграции.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>http://localhost:1313/project/github/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/github/</guid>
+      <description>&lt;p&gt;Convenient platform for studying and teaching. In 2024 I have created my first repository on GitHub and now I have six.&lt;/p&gt;</description>
     </item>
     
   </channel>

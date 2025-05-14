@@ -14,9 +14,9 @@
     
     <item>
       <title>Оформление отчёта</title>
-      <link>http://localhost:1313/posts/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</link>
+      <link>http://localhost:1313/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</guid>
+      <guid>http://localhost:1313/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</guid>
       <description>
 
 
@@ -85,9 +85,9 @@
     
     <item>
       <title>Прошедшая неделя</title>
-      <link>http://localhost:1313/posts/post3/</link>
+      <link>http://localhost:1313/post/post3/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post3/</guid>
+      <guid>http://localhost:1313/post/post3/</guid>
       <description>
 
 
@@ -122,9 +122,9 @@
     
     <item>
       <title>Язык разметки Markdown</title>
-      <link>http://localhost:1313/posts/markdown/</link>
+      <link>http://localhost:1313/post/markdown/</link>
       <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/markdown/</guid>
+      <guid>http://localhost:1313/post/markdown/</guid>
       <description>
 
 
@@ -179,9 +179,9 @@ Markdown легко конвертируется в HTML, открывается
     
     <item>
       <title>Прошедшая неделя</title>
-      <link>http://localhost:1313/posts/post2/</link>
+      <link>http://localhost:1313/post/post2/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post2/</guid>
+      <guid>http://localhost:1313/post/post2/</guid>
       <description>
 
 
@@ -216,9 +216,9 @@ Markdown легко конвертируется в HTML, открывается
     
     <item>
       <title>Прошедшая неделя</title>
-      <link>http://localhost:1313/posts/post1/</link>
+      <link>http://localhost:1313/post/post1/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post1/</guid>
+      <guid>http://localhost:1313/post/post1/</guid>
       <description>
 
 
@@ -253,9 +253,9 @@ Markdown легко конвертируется в HTML, открывается
     
     <item>
       <title>Управление версиями</title>
-      <link>http://localhost:1313/posts/get-started/</link>
+      <link>http://localhost:1313/post/get-started/</link>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/get-started/</guid>
+      <guid>http://localhost:1313/post/get-started/</guid>
       <description>
 
 
@@ -304,6 +304,14 @@ Markdown легко конвертируется в HTML, открывается
 &lt;h2 id=&#34;итог&#34;&gt;Итог&lt;/h2&gt;
 &lt;p&gt;Git, благодаря своей скорости, гибкости и распределенной архитектуре, хорошо подходит для разработки различных проектов и обладает обширными возможностями для настройки и интеграции.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>http://localhost:1313/project/github/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/github/</guid>
+      <description>&lt;p&gt;Convenient platform for studying and teaching. In 2024 I have created my first repository on GitHub and now I have six.&lt;/p&gt;</description>
     </item>
     
   </channel>

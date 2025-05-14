@@ -110,7 +110,7 @@ skills:
       - name: Skating
         description: 'I love doing tricks'
         percent: 60
-        icon: person-simple-walk
+        icon: skateboarder
       - name: Cats
         description: 'I love my cat'
         percent: 100
@@ -139,14 +139,14 @@ awards:
     url: https://gimn2-murmansk-r47.gosweb.gosuslugi.ru/
     date: '2023-04-18'
     awarder: МБОУ г. Мурманска "Гимназия №2"
-    icon: school awards
+    icon: school
     summary: |
       За активную жизненную позицию, успехи в образовательной деятельности и большой вклад в историю Гимназии №2 удостоена звания Достояния гимназии.
   - title: I место в международном театральном фестивале "Арктическая сцена"
     url: https://арктическаясцена.рф/
     date: '2022-05-15'
     awarder: Жюри фестиваля 
-    icon: theatre awards
+    icon: theatre
     summary: |
       Спектакль "Картина по номерам", поставленный М.А. Юрьевой по пьесе Е.И. Крынжиной, в котором я принимала участие, занял I место на фестивале.
 ---
