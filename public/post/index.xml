@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog | Hugo Academic CV Theme</title>
+    <title>Blog | Панина Ж. В.</title>
     <link>http://localhost:1313/post/</link>
       <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Blog</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Оформление отчёта</title>
-      <link>http://localhost:1313/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</guid>
+      <title>Last week</title>
+      <link>http://localhost:1313/post/post4/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post4/</guid>
       <description>
 
 
@@ -25,66 +25,137 @@
   &lt;div class=&#34;text-sm&#34;&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#основные-разделы-отчёта&#34;&gt;Основные разделы отчёта&lt;/a&gt;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#полезные-элементы-markdown&#34;&gt;Полезные элементы Markdown&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#итог&#34;&gt;Итог&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#оформление-отчёта---важная-часть-любой-работы-markdown--это-лёгкий-в-освоении-язык-разметки-который-идеально-подходит-для-оформления-отчётов-особенно-в-технических-и-учебных-дисциплинах-он-позволяет-создавать-структурированные-читаемые-и-легко-конвертируемые-в-pdf-или-html-документы&#34;&gt;Оформление отчёта - важная часть любой работы. Markdown — это лёгкий в освоении язык разметки, который идеально подходит для оформления отчётов, особенно в технических и учебных дисциплинах. Он позволяет создавать структурированные, читаемые и легко конвертируемые в PDF или HTML документы.&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#routine&#34;&gt;Routine&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#study&#34;&gt;Study&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#weather&#34;&gt;Weather&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#music&#34;&gt;Music&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#assessment-of-the-week&#34;&gt;Assessment of the week&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
   &lt;/div&gt;
 &lt;/details&gt;
 
-&lt;h2 id=&#34;основные-разделы-отчёта&#34;&gt;Основные разделы отчёта&lt;/h2&gt;
-&lt;p&gt;При оформлении отчёта важно включать следующие обязательные разделы:&lt;/p&gt;
-&lt;h4 id=&#34;цель-работы&#34;&gt;Цель работы&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Краткое описание того, зачем проводится работа. Например:
-Цель работы — ознакомиться с базовыми командами оболочки Linux и научиться создавать скрипты.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;задание&#34;&gt;Задание&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Список или текст с указанием, что необходимо выполнить в ходе лабораторной. Это может быть как текстовое описание, так и список:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-mysql&#34; data-lang=&#34;mysql&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;**&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;Задание&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;**&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;Установить&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;пакет&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;`&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;htop&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;`&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;Создать&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;скрипт&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;`&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;backup&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;sh&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;`&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;err&#34;&gt;Настроить&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;cron&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;задачу&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;теоретическое-введение&#34;&gt;Теоретическое введение&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Объяснение ключевых понятий и подходов, необходимых для выполнения работы. Здесь можно использовать списки, выделения, заголовки, ссылки:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;**Термины:**
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; *Shell* — командная оболочка UNIX. *Script* — файл с набором команд.
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;ход-выполнения-работы&#34;&gt;Ход выполнения работы&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Подробное описание этапов выполнения с пояснениями, кодом, выводами команд и, при необходимости, изображениями.
-Вы можете вставлять скриншоты следующим образом:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![Результат выполнения скрипта](images/script_output.png)
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Для вставки кода:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;echo&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;Hello, world!&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;выводы-что-сделано-чему-научились-с-какими-трудностями-столкнулись-например&#34;&gt;Выводы: что сделано, чему научились, с какими трудностями столкнулись. Например:&lt;/h4&gt;
-&lt;p&gt;В ходе работы были освоены базовые команды shell и создан автоматический скрипт резервного копирования. Теперь я понимаю принципы работы cron и могу автоматизировать простые задачи.&lt;/p&gt;
-&lt;h3 id=&#34;полезные-элементы-markdown&#34;&gt;Полезные элементы Markdown&lt;/h3&gt;
-&lt;p&gt;Заголовки: #, ##, ### — для логической структуры.&lt;/p&gt;
-&lt;p&gt;Код: тройные кавычки или одинарные обратные (`) — для вставки кода.&lt;/p&gt;
-&lt;p&gt;Списки: -, * или 1. — для маркированных и нумерованных списков.&lt;/p&gt;
-&lt;p&gt;Ссылки:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[GitHub](https://github.com)
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Изображения:
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![Описание](путь_или_URL)
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;итог&#34;&gt;Итог&lt;/h2&gt;
-&lt;h2 id=&#34;оформление-отчёта---важная-часть-любой-работы-markdown--это-лёгкий-в-освоении-язык-разметки-который-идеально-подходит-для-оформления-отчётов-особенно-в-технических-и-учебных-дисциплинах-он-позволяет-создавать-структурированные-читаемые-и-легко-конвертируемые-в-pdf-или-html-документы&#34;&gt;Оформление отчёта - важная часть любой работы. Markdown — это лёгкий в освоении язык разметки, который идеально подходит для оформления отчётов, особенно в технических и учебных дисциплинах. Он позволяет создавать структурированные, читаемые и легко конвертируемые в PDF или HTML документы.&lt;/h2&gt;
+&lt;h2 id=&#34;routine&#34;&gt;Routine&lt;/h2&gt;
+&lt;p&gt;It&amp;rsquo;s been a quiet but eventful week. We celebrated my friend Vicki&amp;rsquo;s birthday, met interesting people, had a lot of things: a pajama party, a murder investigation game, a PowerPoint party, lots of delicious food and everything. At the same time, I met a friend who came from another city for her birthday and managed to give her a mini-tour of the campus. My mom also came to visit me for the weekend, and we had a great time together. We played billiards, walked, and had a delicious meal. After a long break for the holidays, I finally met my beloved classmates, we already missed each other very much. I met my brother, and this weekend I&amp;rsquo;m going to his soccer tournament, and I&amp;rsquo;m going to cheer!&lt;/p&gt;
+&lt;h2 id=&#34;study&#34;&gt;Study&lt;/h2&gt;
+&lt;p&gt;Last time, I expressed my anger about the programming technology class. I would like to inform you that by today&amp;rsquo;s class I had completed all four laboratory work, and last Wednesday I defended the second one. There are two remaining defenses (read Pavlovskaya!!) And that&amp;rsquo;s basically it. In general, as the semester approaches the end, many subjects are already closing and the exams and the session are approaching(( But never mind, we will cope!! Now we need to focus on matlogics and matanalysis, the tests are coming up, and over the holidays we forgot everything and now we need to catch up and do our homework. In addition, I am urgently completing tests on subjects, completing an individual project, laboratory work and an external course on operating systems. In general, things are going through the roof, as always!!!&lt;/p&gt;
+&lt;h2 id=&#34;weather&#34;&gt;Weather&lt;/h2&gt;
+&lt;p&gt;On the one hand, it&amp;rsquo;s nice that it wasn&amp;rsquo;t +30 heat and it&amp;rsquo;s possible to be outside, but on the other hand, I wish it was a little warmer by at least a few degrees. It was mostly this week +8 - +10 And it&amp;rsquo;s raining all the time. But I like rain, but I don&amp;rsquo;t like cold:( I don&amp;rsquo;t want to wear a jacket in May anymore, let&amp;rsquo;s have good weather!!&lt;/p&gt;
+&lt;h2 id=&#34;music&#34;&gt;Music&lt;/h2&gt;
+&lt;p&gt;It&amp;rsquo;s all one to one: rainy weather - and most of all I want to listen to the band alt-J. I just overlistened to them, their music is literally saturated with freshness, rain, and tranquility. I also listened to Champs, Labrinth, Fleetwood Mac, Jacob Bellens.&lt;/p&gt;
+&lt;h2 id=&#34;assessment-of-the-week&#34;&gt;Assessment of the week&lt;/h2&gt;
+&lt;p&gt;9/10. The weather spoils everything a bit, but everything else was fine.&lt;/p&gt;
+&lt;hr&gt;
 </description>
     </item>
     
     <item>
-      <title>Прошедшая неделя</title>
+      <title>Scientific Programming Languages</title>
+      <link>http://localhost:1313/post/scientific-programming-languages/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/scientific-programming-languages/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#thus-each-of-the-listed-languages-is-specialized-to-solve-a-certain-type-of-problem-the-choice-of-the-appropriate-language-depends-on-the-goals-and-objectives-of-the-programmer&#34;&gt;Thus, each of the listed languages ​​is specialized to solve a certain type of problem. The choice of the appropriate language depends on the goals and objectives of the programmer.&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;p&gt;There are hundreds of programming languages ​​in the world today - how to choose the best one to learn? We publish a list of the most popular options.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Bash&lt;/strong&gt;. Unix shell scripting, created by Ken Thompson in the early 1970s, is closely related to the C programming language. Bash, an updated Unix shell, was first released in the late 80s and is still actively developed. Bash is commonly used for writing server configuration scripts, making it a good choice for working in modern cloud environments with container storage and microservices. Shell scripting is used quite often, so knowing this language will come in handy.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;C/C++&lt;/strong&gt;.
+These languages ​​often occupy the top of various rankings - they are valued for their power and speed. C was created in the early 1970s by Dennis Ritchie, C++ was developed in 1985 by Bjarne Stroustrup. Today, these two languages ​​underlie everything from operating systems and games to modern scientific computing and machine learning. C and C++ are well suited for demanding applications that require low-level access to hardware and performance. Learning these languages ​​takes time and some effort.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;C#&lt;/strong&gt;, released by Microsoft in 2000, was developed by Anders Hejlsberg as a cross-platform object-oriented programming language. Nowadays, it is often used to develop business applications, APIs, games, and more. Its wide range of features makes it suitable for graphics and other asynchronous programming tasks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Java&lt;/strong&gt; is a general-purpose object-oriented programming language developed in the 1990s by James Gosling at Sun (now owned by Oracle) and designed to be compiled into bytecode to run on the Java Virtual Machine. By 2020, these include almost every kind of device, from TVs and game consoles to servers, phones, and even kitchen appliances. The language is widely used in corporations and universities, making it popular with both novice programmers and experienced developers.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;JavaScript&lt;/strong&gt; was developed by Brandon Eich in the 1990s to add script execution to websites. Today, it is a universal web interface language with powerful, standardized features that are supported by all major browsers. JavaScript follows the EcmaScript standard, which is updated every few years with new language specifications. JavaScript is also commonly used to develop server-side services and APIs, mobile apps, games, and other software. It is a great choice for learning and improving.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt;. Introduced in 1991 by Guido van Rossum, Python was conceived as a readable language with OOP features that uses functional paradigms to build clean and well-organized programs. Python has support on major platforms and is used in a variety of fields, including science, data mining, artificial intelligence, computer graphics for feature films, cloud computing, game development, and many others. Python has proven itself and will remain one of the most in-demand tools for a long time.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SQL&lt;/strong&gt; is a general-purpose programming language, but is a powerful domain-specific language for managing relational databases. Its use cases range from Fortune 500 data warehouses to embedded SQLite, and it is widely used in desktop and mobile applications. Many IT and development positions require at least basic knowledge of SQL. Advanced skills allow a developer to create extremely secure and reliable domain rules independent of the programming language or SDK used. High-profile implementations include Microsoft SQL Server, Oracle Database, and PostgreSQL. Each of them has a unique extension of the SQL language and offers new features that go beyond the basic SQL specification. Learning SQL does not take much time and is useful in many areas from analytics and data processing to IT management and software development.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;thus-each-of-the-listed-languages-is-specialized-to-solve-a-certain-type-of-problem-the-choice-of-the-appropriate-language-depends-on-the-goals-and-objectives-of-the-programmer&#34;&gt;Thus, each of the listed languages ​​is specialized to solve a certain type of problem. The choice of the appropriate language depends on the goals and objectives of the programmer.&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Creating a report</title>
+      <link>http://localhost:1313/post/making-a-report/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/making-a-report/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#main-sections-of-the-report&#34;&gt;Main sections of the report&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#useful-markdown-elements&#34;&gt;Useful Markdown Elements&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#results&#34;&gt;Results&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#making-a-report-is-an-important-part-of-any-job-markdown-is-an-easyto-learn-markup-language-that-is-ideal-for-creating-reports-especially-in-technical-and-academic-disciplines-it-allows-you-to-create-structured-readable-and-easily-converted-to-pdf-or-html-documents&#34;&gt;Making a report is an important part of any job. Markdown is an easy—to-learn markup language that is ideal for creating reports, especially in technical and academic disciplines. It allows you to create structured, readable and easily converted to PDF or HTML documents.&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;main-sections-of-the-report&#34;&gt;Main sections of the report&lt;/h2&gt;
+&lt;p&gt;When making a report, it is important to include the following mandatory sections:&lt;/p&gt;
+&lt;h4 id=&#34;purpose-of-the-work&#34;&gt;Purpose of the work&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;A brief description of why the work is being carried out. For example:
+The purpose of the work is to familiarize yourself with the basic commands of the Linux shell and learn how to create scripts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;task&#34;&gt;Task&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;A list or text indicating what needs to be done during the laboratory. This can be either a text description or a list:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;**Task:**
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1. Install the &amp;#39;htop` package.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;2. Create a script `backup.sh `.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;3. Set up a cron task.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;theoretical-introduction&#34;&gt;Theoretical introduction&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;An explanation of the key concepts and approaches needed to complete the work. Here you can use lists, highlights, headers, links:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;**Terms:**
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;*Shell* is a UNIX command shell. *Script* is a file with a set of commands.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;progress-of-the-work&#34;&gt;Progress of the work&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;A detailed description of the execution steps with explanations, code, command outputs and, if necessary, images.
+You can insert screenshots as follows:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![Результат выполнения скрипта](images/script_output.png)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To insert the code, use three apostrophes at the top indicating the language before the code and three apostrophes after the code.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;echo&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;Hello, world!&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;conclusions-what-has-been-done-what-has-been-learned-what-difficulties-have-you-encountered-for-example&#34;&gt;Conclusions: what has been done, what has been learned, what difficulties have you encountered. For example:&lt;/h4&gt;
+&lt;p&gt;During the work, the basic shell commands were mastered and an automatic backup script was created. Now I understand how cron works and can automate simple tasks.&lt;/p&gt;
+&lt;h3 id=&#34;useful-markdown-elements&#34;&gt;Useful Markdown Elements&lt;/h3&gt;
+&lt;p&gt;Headlines: #, ##, ### — for the logical structure.&lt;/p&gt;
+&lt;p&gt;Code: triple quotes or single backtracks (`) are used to insert the code.&lt;/p&gt;
+&lt;p&gt;Lists: -, * or 1. — for bulleted and numbered lists.&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[GitHub](https://github.com)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Images:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![Description](path_or_URL)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;h2 id=&#34;making-a-report-is-an-important-part-of-any-job-markdown-is-an-easyto-learn-markup-language-that-is-ideal-for-creating-reports-especially-in-technical-and-academic-disciplines-it-allows-you-to-create-structured-readable-and-easily-converted-to-pdf-or-html-documents&#34;&gt;Making a report is an important part of any job. Markdown is an easy—to-learn markup language that is ideal for creating reports, especially in technical and academic disciplines. It allows you to create structured, readable and easily converted to PDF or HTML documents.&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last week</title>
       <link>http://localhost:1313/post/post3/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/post3/</guid>
@@ -96,89 +167,32 @@
   &lt;div class=&#34;text-sm&#34;&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#рутина&#34;&gt;Рутина&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#учёба&#34;&gt;Учёба&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#погода&#34;&gt;Погода&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#музыка&#34;&gt;Музыка&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#оценка-недели&#34;&gt;Оценка недели&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#routine&#34;&gt;Routine&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#study&#34;&gt;Study&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#weather&#34;&gt;Weather&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#music&#34;&gt;Music&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#assessment-of-the-week&#34;&gt;Assessment of the week&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
   &lt;/div&gt;
 &lt;/details&gt;
 
-&lt;h2 id=&#34;рутина&#34;&gt;Рутина&lt;/h2&gt;
-&lt;p&gt;Неделя выдалась богатая на события. Очень много новых людей пришло в мою жизнь, в понедельник ночью поздравляли Тиму с днём рождения, пожелали ему выиграть &amp;ldquo;Студент года&amp;rdquo;. Так и сучилось: он получил приз зрительских симпатий, что мы благополучно отметили. Хочу также упомянуть свой любимый мятный смузи, который я беру в небезызвестном заведении. Очень вкусный, выпила две порции в тот вечер и поехала отдыхать. Выходные прошли весело и пролетели со свистом. Поверьте, было весело. Вообще на неделе много гуляли, также активно готовимся к второму этапу школы кураторов, много было встреч и съёмок, многое ещё предстоит сделать за ближайшие два дня.&lt;/p&gt;
-&lt;h2 id=&#34;учёба&#34;&gt;Учёба&lt;/h2&gt;
-&lt;p&gt;Учёба на этой неделе ощущалась не так явно из-за обилия других дел. Но про вчерашнее даже говорить не хочу: занятие по технологии программирования просто повергло меня в шок! Нужно сделать одновременно пятьсот лабораторных работ, для каждой при этом переворотить немало теории, написать отчёты и защитить их. И это всё выпадает как раз на те сроки, когда я буду заниматься жизненно важными делами и мне будет не до этого!! Почему всё скопом в одно время???!! По-прежнему единственное, что не приносит нервов - это испанский язык.&lt;/p&gt;
-&lt;h2 id=&#34;погода&#34;&gt;Погода&lt;/h2&gt;
-&lt;p&gt;Опять калейдоскоп. Неделю была просто невыносимая жара, лето, +25,  дальше резко +5 и ветер - пришлось обратно доставать куртку и пальто, а сегодня, в праздник весны и труда, весь день шёл ливень. Но я люблю такое, когда сидишь дома, занимаешься учёбой, смотришь фильмы или читаешь книги, в целом делаешь что угодно, - смотришь в окно, а там всё зелёное и идёт ливень, такой приятный свежий запах и успокаивающий звук дождя. Сто из ста.&lt;/p&gt;
-&lt;h2 id=&#34;музыка&#34;&gt;Музыка&lt;/h2&gt;
-&lt;p&gt;Помимо моей любимой группы INXS, можно сказать, что выдалась женская неделя в плане музыки: Адель, Сия, Шинейд О&amp;rsquo;Коннор, Эми Уанхаус и другие, а также в большом количестве Бруно Марс.&lt;/p&gt;
-&lt;h2 id=&#34;оценка-недели&#34;&gt;Оценка недели&lt;/h2&gt;
-&lt;p&gt;8/10. Наверное из-за погодных перемен вялое состояние, а также все разъехались по своим городам((&lt;/p&gt;
+&lt;h2 id=&#34;routine&#34;&gt;Routine&lt;/h2&gt;
+&lt;p&gt;It&amp;rsquo;s been an eventful week. A lot of new people came into my life, and on Monday night we congratulated Timofey on his birthday and wished him a Student of the Year award. And so it turned out: he won the audience award, which we happily celebrated. I also want to mention my favorite mint smoothie, which I take from a well-known institution. It was very tasty, I drank two servings that evening and went to rest. The weekend was fun and flew by with a bang. Believe me, it was fun. In general, we walked a lot during the week, we are also actively preparing for the second stage of the school of curators, there were a lot of meetings and filming, much more needs to be done in the next two days.&lt;/p&gt;
+&lt;h2 id=&#34;study&#34;&gt;Study&lt;/h2&gt;
+&lt;p&gt;Studying this week didn&amp;rsquo;t feel so obvious due to the abundance of other things to do. But I don&amp;rsquo;t even want to talk about yesterday: the programming technology class just shocked me! It is necessary to do five hundred laboratory works at the same time, while turning over a lot of theory for each one, write reports and defend them. And all this falls just at the time when I will be doing vital things and I will not be up to it!! Why are they all together at the same time???!! Still, the only thing that doesn&amp;rsquo;t bring nerves is the Spanish class.&lt;/p&gt;
+&lt;h2 id=&#34;weather&#34;&gt;Weather&lt;/h2&gt;
+&lt;p&gt;The kaleidoscope again. It was just unbearable heat for a week, summer, +25, then sharply +5 and the wind - I had to get my jacket and coat back, and today, on the spring and labor day, it was raining all day. But I love it when you&amp;rsquo;re sitting at home, studying, watching movies or reading books, generally doing anything - you look out the window, and everything is green and it&amp;rsquo;s raining, such a pleasant fresh smell and soothing sound of rain. One hundred out of a hundred.&lt;/p&gt;
+&lt;h2 id=&#34;music&#34;&gt;Music&lt;/h2&gt;
+&lt;p&gt;In addition to my favorite band INXS, I can say that it was a women&amp;rsquo;s week in terms of music: Adele, Sia, Sinead O&amp;rsquo;Connor, Amy Winehouse and others, as well as a large number of Bruno Mars.&lt;/p&gt;
+&lt;h2 id=&#34;assessment-of-the-week&#34;&gt;Assessment of the week&lt;/h2&gt;
+&lt;p&gt;8/10. Probably due to the weather changes, the sluggish state, as well as everyone left for their cities((&lt;/p&gt;
 &lt;hr&gt;
 </description>
     </item>
     
     <item>
-      <title>Язык разметки Markdown</title>
-      <link>http://localhost:1313/post/markdown/</link>
-      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/markdown/</guid>
-      <description>
-
-
-&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
-  &lt;summary&gt;Table of Contents&lt;/summary&gt;
-  &lt;div class=&#34;text-sm&#34;&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#язык-разметки&#34;&gt;Язык разметки&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#основные-команды-markdown&#34;&gt;Основные команды Markdown&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#итог&#34;&gt;Итог&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#markdown-легко-конвертируется-в-html-открывается-во-всех-текстовых-редакторах-и-легко-читается-даже-в-виде-исходного-кода-при-этом-писать-на-нём-куда-проще-чем-на-других-языках-разметки-html-xml-tex-и-так-далее&#34;&gt;Язык разметки Markdown широко распространён в вебе. На нём пишут readme-файлы и документацию, а его принципы работы используют для оформления сообщений и публикаций в мессенджерах и социальных сетях.
-Markdown легко конвертируется в HTML, открывается во всех текстовых редакторах и легко читается даже в виде исходного кода. При этом писать на нём куда проще, чем на других языках разметки: HTML, XML, TeX и так далее.&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
-  &lt;/div&gt;
-&lt;/details&gt;
-
-&lt;h2 id=&#34;язык-разметки&#34;&gt;Язык разметки&lt;/h2&gt;
-&lt;p&gt;Языком разметки в сфере IT называют некий набор символов и их последовательностей, внедряемых в текст с целью передачи информации о структуре этого документа и его конечном виде. В итоге текстовый документ выглядит как текст со всеми знаками препинания, дополненный кодом с информацией о структуре данного текста.
-Markdown - это облегчённый язык разметки, который преобразует текст в структурированный HTML.Его можно открывать и изменять в любом редакторе текста. Широко используется для написания документаций и README-файлов.&lt;/p&gt;
-&lt;h2 id=&#34;основные-команды-markdown&#34;&gt;Основные команды Markdown&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Чтобы создать заголовок, используйте знак ( # ).&lt;/li&gt;
-&lt;li&gt;Чтобы задать для текста полужирное начертание, заключите его в двойные звездочки.&lt;/li&gt;
-&lt;li&gt;Чтобы задать для текста курсивное начертание, заключите его в одинарные звездочки.&lt;/li&gt;
-&lt;li&gt;Чтобы задать для текста полужирное и курсивное начертание, заключите его в тройные звездочки.&lt;/li&gt;
-&lt;li&gt;Блоки цитирования создаются с помощью символа &amp;gt;.&lt;/li&gt;
-&lt;li&gt;Неупорядоченный (маркированный) список можно отформатировать с помощью звездочек или тире.&lt;/li&gt;
-&lt;li&gt;Чтобы вложить один список в другой, добавьте отступ для элементов дочернего списка.&lt;/li&gt;
-&lt;li&gt;Упорядоченный список можно отформатировать с помощью соответствующих цифр.&lt;/li&gt;
-&lt;li&gt;Чтобы вложить один список в другой, добавьте отступ для элементов дочернего списка.
-Синтаксис Markdown для встроенной ссылки состоит из части [link text] , представляющей текст гиперссылки, и части (file-name.md) – URL-адреса или имени файла, на который дается ссылка. Markdown поддерживает как встраивание фрагментов кода в предложение, так и их размещение между предложениями в виде отдельных огражденных блоков. Огражденные блоки кода — это простой способ выделить синтаксис для фрагментов кода.
-Внутритекстовые формулы делаются аналогично формулам LaTeX.
-Для обработки файлов в формате Markdown будем использовать Pandoc. Конкретно, нам понадобится программа pandoc, pandoc-citeproc &lt;a href=&#34;https://github.com/jgm/pandoc/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/jgm/pandoc/releases&lt;/a&gt;, pandoc-crossref
-&lt;a href=&#34;https://github.com/lierdakil/pandoc-crossref/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/lierdakil/pandoc-crossref/releases&lt;/a&gt;.
-Преобразовать файл README.md можно следующим образом:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;pandoc README.md -o README.pdf
-или так&lt;/li&gt;
-&lt;li&gt;pandoc README.md -o README.docx
-Можно использовать следующий Makefile&lt;/li&gt;
-&lt;li&gt;FILES = $(patsubst %.md, %.docx, $(wildcard *.md))&lt;/li&gt;
-&lt;li&gt;FILES += $(patsubst %.md, %.pdf, $(wildcard *.md))&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;итог&#34;&gt;Итог&lt;/h2&gt;
-&lt;h2 id=&#34;markdown-легко-конвертируется-в-html-открывается-во-всех-текстовых-редакторах-и-легко-читается-даже-в-виде-исходного-кода-при-этом-писать-на-нём-куда-проще-чем-на-других-языках-разметки-html-xml-tex-и-так-далее&#34;&gt;Язык разметки Markdown широко распространён в вебе. На нём пишут readme-файлы и документацию, а его принципы работы используют для оформления сообщений и публикаций в мессенджерах и социальных сетях.
-Markdown легко конвертируется в HTML, открывается во всех текстовых редакторах и легко читается даже в виде исходного кода. При этом писать на нём куда проще, чем на других языках разметки: HTML, XML, TeX и так далее.&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Прошедшая неделя</title>
+      <title>Last week</title>
       <link>http://localhost:1313/post/post2/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/post2/</guid>
@@ -190,32 +204,32 @@ Markdown легко конвертируется в HTML, открывается
   &lt;div class=&#34;text-sm&#34;&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#рутина&#34;&gt;Рутина&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#учёба&#34;&gt;Учёба&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#погода&#34;&gt;Погода&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#музыка&#34;&gt;Музыка&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#оценка-недели&#34;&gt;Оценка недели&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#routine&#34;&gt;Routine&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#study&#34;&gt;Study&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#weather&#34;&gt;Weather&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#music&#34;&gt;Music&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#assessment-of-the-week&#34;&gt;Assessment of the week&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#ill-give-910-again-the-tests-and-the-weather-are-to-blame&#34;&gt;I&amp;rsquo;ll give 9/10 again. The tests and the weather are to blame!!&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
   &lt;/div&gt;
 &lt;/details&gt;
 
-&lt;h2 id=&#34;рутина&#34;&gt;Рутина&lt;/h2&gt;
-&lt;p&gt;Выходные проходят очень насыщенно. На прошлых ко мне приехала подруга из другого города, мы не виделись 5 месяцев и очень соскучились друг по другу. Гуляли, познакомила её со своими друзьями, было весело. Когда она уехала, всё снова стало как обычно: учёба, домашние дела. Ещё был день рождения у Саши, мы его поздравляли ночью и я уронила торт. Но всё в итоге прошло хорошо. На этих выходных даже получилось устроить ночёвку с лучшей подругой, с которой редко видимся из-за учёбы. Но каждая встреча это какой-то праздник!&lt;/p&gt;
-&lt;h2 id=&#34;учёба&#34;&gt;Учёба&lt;/h2&gt;
-&lt;p&gt;На неделе в один день было две контрольных работы, что повергло меня в немалый стресс. Жду результаты, подготовка должна была себя оправдать. После них чувствую не такую загруженность, больше отдыхаю и занимаюсь своими делами, даже попала на фестиваль суахилийской культуры в главном корпусе РУДН. Пары по английскому такие разнообразные.. Вообще я рада, что и на парах, и между ними, и даже в свободное от учёбы время есть друзья, с которыми жить веселее.&lt;/p&gt;
-&lt;h2 id=&#34;погода&#34;&gt;Погода&lt;/h2&gt;
-&lt;p&gt;Про погоду у меня просто нет слов. На неделе держалась хорошая плюсовая температура, а в пятницу вообще наступило лето! Солнце, жара +15, был такой хороший настрой! И что я вижу на следующий день?! Тепло резко ушло, ветер, дождь, в воскресенье вообще пошёл снег и так будет всю неделю!! Я конечно понимаю, что мне, северному человеку, грех жаловаться на зиму в апреле, но я не для этого переехала. В общем, никакого положительного отзыва о погоде, пусть исправляется.&lt;/p&gt;
-&lt;h2 id=&#34;музыка&#34;&gt;Музыка&lt;/h2&gt;
-&lt;p&gt;Погрузилась в какие-то воспоминания давно минувших лет, включив свой плейлист с конца. А там было всё: и русский рэп, и легендарный зарубежный хип-хоп нулевых, и 80-е с Боуи и Queen, и вечно жизнерадостная Испания, которая звучала в каждом доме, где работало радио по солнечным выходным дням. Прям ностальгия, которая словно возвращается в моду в мире моих предпочтений.&lt;/p&gt;
-&lt;h2 id=&#34;оценка-недели&#34;&gt;Оценка недели&lt;/h2&gt;
-&lt;p&gt;Снова дам 9/10. Контрольные и погода во всём виноваты!!&lt;/p&gt;
-&lt;hr&gt;
+&lt;h2 id=&#34;routine&#34;&gt;Routine&lt;/h2&gt;
+&lt;p&gt;The weekend is very busy. Last week, a friend from another city came to see me, we hadn&amp;rsquo;t seen each other for 5 months and we missed each other very much. We went for a walk, I introduced her to my friends, it was fun. When she left, everything went back to normal: studying, household chores. It was Sasha&amp;rsquo;s birthday, we were congratulating him at night and I dropped the cake. But everything went well in the end. This weekend I even managed to arrange a sleepover with my best friend, whom I rarely see because of our studies. But every our meeting is a kind of celebration!&lt;/p&gt;
+&lt;h2 id=&#34;study&#34;&gt;Study&lt;/h2&gt;
+&lt;p&gt;There were two tests on the same day during the week, which put me under a lot of stress. I&amp;rsquo;m waiting for the results, the preparation should have paid off. After them, I feel less busy, I rest more and go about my business, I even got to the festival of Swahili culture in the main building of the Rudn University. English classes are so diverse.. In general, I&amp;rsquo;m glad that during the classes, and between them, and even in time free from them, there are friends with whom it&amp;rsquo;s more fun to live.&lt;/p&gt;
+&lt;h2 id=&#34;weather&#34;&gt;Weather&lt;/h2&gt;
+&lt;p&gt;I just don&amp;rsquo;t have the words for the weather. There was a good plus temperature during the week, and on Friday it was summer in general! The sun, the heat was +15, it was such a good mood! And what do I see the next day?! The heat abruptly left, the wind, the rain, it actually snowed on Sunday and it will be like this all week!! Of course, I understand that it&amp;rsquo;s a sin for me, a northern person, to complain about the winter in April, but that&amp;rsquo;s not why I moved. In general, there is no positive feedback about the weather, let it be corrected.&lt;/p&gt;
+&lt;h2 id=&#34;music&#34;&gt;Music&lt;/h2&gt;
+&lt;p&gt;I plunged into some memories of bygone years, turning on my playlist from the end. And there it was: Russian rap, and the legendary foreign hip-hop of the noughties, and the 80s with Bowie and Queen, and the eternally cheerful Spain, which sounded in every house where the radio worked on sunny weekends. It&amp;rsquo;s just nostalgia, which seems to be returning to fashion in the world of my preferences.&lt;/p&gt;
+&lt;h2 id=&#34;assessment-of-the-week&#34;&gt;Assessment of the week&lt;/h2&gt;
+&lt;h2 id=&#34;ill-give-910-again-the-tests-and-the-weather-are-to-blame&#34;&gt;I&amp;rsquo;ll give 9/10 again. The tests and the weather are to blame!!&lt;/h2&gt;
 </description>
     </item>
     
     <item>
-      <title>Прошедшая неделя</title>
+      <title>Last week</title>
       <link>http://localhost:1313/post/post1/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/post1/</guid>
@@ -227,32 +241,87 @@ Markdown легко конвертируется в HTML, открывается
   &lt;div class=&#34;text-sm&#34;&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#рутина&#34;&gt;Рутина&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#домашнее-задание&#34;&gt;Домашнее задание&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#погода&#34;&gt;Погода&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#музыка&#34;&gt;Музыка&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#оценка-недели&#34;&gt;Оценка недели&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#дам-910-чтобы-было-1010-должно-быть-всё-идеально-а-у-кого-не-случается-ни-одного-расстройства-за-целую-неделю&#34;&gt;Дам 9/10. Чтобы было 10/10, должно быть всё идеально, а у кого не случается ни одного расстройства за целую неделю!&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#routine&#34;&gt;Routine&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#homework&#34;&gt;Homework&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#weather&#34;&gt;Weather&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#music&#34;&gt;Music&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#assessment-of-the-week&#34;&gt;Assessment of the week&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#ill-give-910-for-it-to-be-1010-everything-must-be-perfect-and-who-doesnt-have-a-single-breakdown-in-a-whole-week&#34;&gt;I&amp;rsquo;ll give 9/10. For it to be 10/10, everything must be perfect, and who doesn&amp;rsquo;t have a single breakdown in a whole week!&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
   &lt;/div&gt;
 &lt;/details&gt;
 
-&lt;h2 id=&#34;рутина&#34;&gt;Рутина&lt;/h2&gt;
-&lt;p&gt;На выходных сделала много полезного. Сделала генеральную уборку в комнате, читала книги, делала лабораторные работы. Стараюсь наладить режим сна, правильно питаюсь. Каждое утро начинаю с зарядки, растяжки и музыки. Это очень помогает проснуться, разогреть тело, поднимает настроение и желание начинать новый день. Событие недели произошло сегодня: в Москву приехал папа, мы повидались несколько часов, я очень рада)&lt;/p&gt;
-&lt;h2 id=&#34;домашнее-задание&#34;&gt;Домашнее задание&lt;/h2&gt;
-&lt;p&gt;Домашнего задания на неделе было не так много, но ближе к выходным накопилось. Сейчас как раз делаю проект и лабораторную работу по операционным системам. Из оставшихся нужно сделать доклад по истории к субботе, написать код по технологии программирования. Домашка меня не радует, я хочу гулять:(&lt;/p&gt;
-&lt;h2 id=&#34;погода&#34;&gt;Погода&lt;/h2&gt;
-&lt;p&gt;Погодка на неделе выдалась странная, переменчивая. То снег и -6, то солнце и +7, как, например, сегодня. Скорее бы полноценная весна, греться на солнце и радоваться жизни.&lt;/p&gt;
-&lt;h2 id=&#34;музыка&#34;&gt;Музыка&lt;/h2&gt;
-&lt;p&gt;На этой неделе слушаю супер спокойные, лёгкие весенние песни, чаще всего почему-то  французские. Также в моём плейлисте в последние дни частенько звучал Элвис Пресли и другие талантливые исполнители той эпохи. Не могу не отметить оперу: партии Лючиано Паваротти из такой оперной классики как &amp;ldquo;Риголетто&amp;rdquo; Джузеппе Верди, &amp;ldquo;Кармен&amp;rdquo; Жоржа Бизе, а также &amp;ldquo;Маскарад&amp;rdquo; Арама Хачатуряна. Очень талантливо и берёт за душу, приносит какое-то умиротворение.&lt;/p&gt;
-&lt;h2 id=&#34;оценка-недели&#34;&gt;Оценка недели&lt;/h2&gt;
-&lt;h2 id=&#34;дам-910-чтобы-было-1010-должно-быть-всё-идеально-а-у-кого-не-случается-ни-одного-расстройства-за-целую-неделю&#34;&gt;Дам 9/10. Чтобы было 10/10, должно быть всё идеально, а у кого не случается ни одного расстройства за целую неделю!&lt;/h2&gt;
+&lt;h2 id=&#34;routine&#34;&gt;Routine&lt;/h2&gt;
+&lt;p&gt;I did a lot of useful things over the weekend. I did a general cleaning in the room, read books, did laboratory work. I try to adjust my sleep schedule and eat right. I start every morning with exercises, stretching, and music. It helps a lot to wake up, warm up the body, raises the mood and the desire to start a new day. The event of the week happened today: Dad came to Moscow, we saw each other for a few hours, I&amp;rsquo;m very glad)&lt;/p&gt;
+&lt;h2 id=&#34;homework&#34;&gt;Homework&lt;/h2&gt;
+&lt;p&gt;There wasn&amp;rsquo;t much homework during the week, but it accumulated closer to the weekend. I am currently doing a project and laboratory work on operating systems. Of the rest, I need to make a history report by Saturday, write code on programming technology. I&amp;rsquo;m not happy with my homework, I want to go for a walk:(&lt;/p&gt;
+&lt;h2 id=&#34;weather&#34;&gt;Weather&lt;/h2&gt;
+&lt;p&gt;The weather turned out to be strange and changeable this week. The snow and -6, the sun and +7, as, for example, today. I would rather have a full-fledged spring, bask in the sun and enjoy life.&lt;/p&gt;
+&lt;h2 id=&#34;music&#34;&gt;Music&lt;/h2&gt;
+&lt;p&gt;This week I&amp;rsquo;m listening to super calm, light spring songs, mostly French for some reason. Also, Elvis Presley and other talented performers of that era have often been heard in my playlist in recent days. I can&amp;rsquo;t help but mention the opera: the roles of Luciano Pavarotti from such opera classics as Giuseppe Verdi&amp;rsquo;s Rigoletto, Georges Bizet&amp;rsquo;s Carmen, and Aram Khachaturian&amp;rsquo;s Masquerade. This is very talented and takes you by the heart, brings you some kind of peace.&lt;/p&gt;
+&lt;h2 id=&#34;assessment-of-the-week&#34;&gt;Assessment of the week&lt;/h2&gt;
+&lt;h2 id=&#34;ill-give-910-for-it-to-be-1010-everything-must-be-perfect-and-who-doesnt-have-a-single-breakdown-in-a-whole-week&#34;&gt;I&amp;rsquo;ll give 9/10. For it to be 10/10, everything must be perfect, and who doesn&amp;rsquo;t have a single breakdown in a whole week!&lt;/h2&gt;
 </description>
     </item>
     
     <item>
-      <title>Управление версиями</title>
+      <title>Markdown</title>
+      <link>http://localhost:1313/post/markdown/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/markdown/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#markup-language&#34;&gt;Markup language&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#basic-markdown-commands&#34;&gt;Basic Markdown Commands&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#summary&#34;&gt;Summary&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#markdown-is-easily-converted-to-html-opens-in-all-text-editors-and-is-easy-to-read-even-in-the-form-of-source-code-at-the-same-time-it-is-much-easier-to-write-in-it-than-in-other-markup-languages-html-xml-tex-and-so-on&#34;&gt;The Markdown markup language is widely used on the web. It is used to write readme files and documentation, and its operating principles are used to format messages and publications in instant messengers and social networks.
+Markdown is easily converted to HTML, opens in all text editors and is easy to read even in the form of source code. At the same time, it is much easier to write in it than in other markup languages: HTML, XML, TeX, and so on.&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;markup-language&#34;&gt;Markup language&lt;/h2&gt;
+&lt;p&gt;In the IT sphere, a markup language is a certain set of symbols and their sequences, embedded in the text in order to convey information about the structure of this document and its final form. As a result, the text document looks like a text with all punctuation marks, supplemented by code with information about the structure of this text.
+Markdown is a lightweight markup language that converts text into structured HTML. It can be opened and edited in any text editor. It is widely used for writing documentation and README files.&lt;/p&gt;
+&lt;h2 id=&#34;basic-markdown-commands&#34;&gt;Basic Markdown Commands&lt;/h2&gt;
+&lt;p&gt;To create a heading, use the ( # ) sign.
+To make text bold, enclose it in double asterisks.
+To make text italic, enclose it in single asterisks.
+To make text bold and italic, enclose it in triple asterisks.
+Blockquotes are created using the &amp;gt; symbol.
+An unordered (bulleted) list can be formatted using asterisks or dashes.
+To nest one list within another, indent the child list items.
+An ordered list can be formatted using the appropriate numbers.
+To nest one list within another, indent the child list items.
+The Markdown syntax for an inline link consists of a [link text] part, which is the hyperlink text, and a (file-name.md) part, which is the URL or file name of the file being linked to.
+Markdown supports both embedding code fragments in a sentence and placing them between sentences as separate fenced blocks. Fenced code blocks are an easy way to highlight the syntax for code fragments.
+Inline formulas are made similar to LaTeX formulas.
+We will use Pandoc to process files in Markdown format. Specifically, we will need the pandoc program,
+pandoc-citeproc &lt;a href=&#34;https://github.com/jgm/pandoc/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/jgm/pandoc/releases&lt;/a&gt;, pandoc-crossref
+&lt;a href=&#34;https://github.com/lierdakil/pandoc-crossref/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/lierdakil/pandoc-crossref/releases&lt;/a&gt;.
+You can transform the README.md file as follows:
+1 pandoc README.md -o README.pdf
+or like this
+1 pandoc README.md -o README.docx
+You can use the following Makefile
+1 FILES = $(patsubst %.md, %.docx, $(wildcard *.md))
+2 FILES += $(patsubst %.md, %.pdf, $(wildcard *.md))&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;h2 id=&#34;markdown-is-easily-converted-to-html-opens-in-all-text-editors-and-is-easy-to-read-even-in-the-form-of-source-code-at-the-same-time-it-is-much-easier-to-write-in-it-than-in-other-markup-languages-html-xml-tex-and-so-on&#34;&gt;The Markdown markup language is widely used on the web. It is used to write readme files and documentation, and its operating principles are used to format messages and publications in instant messengers and social networks.
+Markdown is easily converted to HTML, opens in all text editors and is easy to read even in the form of source code. At the same time, it is much easier to write in it than in other markup languages: HTML, XML, TeX, and so on.&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Version control system</title>
       <link>http://localhost:1313/post/get-started/</link>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/get-started/</guid>
@@ -264,255 +333,45 @@ Markdown легко конвертируется в HTML, открывается
   &lt;div class=&#34;text-sm&#34;&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#системы-контроля-версиями&#34;&gt;Системы контроля версиями&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#git-достоинства-и-недостатки&#34;&gt;Git. Достоинства и недостатки&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#достоинства-git&#34;&gt;Достоинства Git&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#недостатки-git&#34;&gt;Недостатки Git&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#итог&#34;&gt;Итог&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#version-control-systems&#34;&gt;Version control systems&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#git-advantages-and-disadvantages&#34;&gt;Git. Advantages and Disadvantages&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#advantages-of-git&#34;&gt;Advantages of Git&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#disadvantages-of-git&#34;&gt;Disadvantages of Git&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#summary&#34;&gt;Summary&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
   &lt;/div&gt;
 &lt;/details&gt;
 
-&lt;h2 id=&#34;системы-контроля-версиями&#34;&gt;Системы контроля версиями&lt;/h2&gt;
-&lt;p&gt;Система управления версиями — программное обеспечение для облегчения работы с изменяющейся информацией. Система управления версиями позволяет хранить несколько версий одного и того же документа, при необходимости возвращаться к более ранним версиям, определять, кто и когда сделал то или иное изменение. Такие системы широко используются при разработке программного обеспечения для хранения исходных кодов. Однако они могут применяться и в других областях, в которых ведётся работа с большим количеством непрерывно изменяющихся электронных документов
-СКВ позволяет вернуть к прежнему состоянию весь проект, сравнить изменения с какого-то времени, увидеть, кто последним изменял модуль, который дал сбой, кто создал проблему, и другое.&lt;/p&gt;
-&lt;h2 id=&#34;git-достоинства-и-недостатки&#34;&gt;Git. Достоинства и недостатки&lt;/h2&gt;
-&lt;p&gt;Git является одной из самых популярных систем контроля версий в мире разработки программного обеспечения. Он был разработан Линусом Торвальдсом в 2005 году и отличается своей скоростью, гибкостью и распределенной архитектурой. [1]
-Основные особенности Git включают возможность создания локальных репозиториев на компьютере разработчика, быстрое создание веток и слияние изменений, эффективное управление проектами любого размера, а также хорошую поддержку для работы с ветвлением и слиянием. Кроме того, Git имеет обширные возможности для настройки рабочего процесса и интеграции с различными сервисами хостинга, такими как GitHub и Bitbucket. (рис. @fig:002).
-Главное отличие Git от любых других систем контроля версий— это то, как Git смотрит на свои данные. В принципе, большинство других систем хранит информацию как список изменений для файлов. Эти системы относятся к хранимым данным как к набору файлов и изменений, сделанных для каждого из этих файлов во времени&lt;/p&gt;
-&lt;h2 id=&#34;достоинства-git&#34;&gt;Достоинства Git&lt;/h2&gt;
+&lt;h2 id=&#34;version-control-systems&#34;&gt;Version control systems&lt;/h2&gt;
+&lt;p&gt;A version control system is software that facilitates work with changing information. A version control system allows you to store several versions of the same document, if necessary, return to earlier versions, determine who made a particular change and when. Such systems are widely used in software development for storing source codes. However, they can also be used in other areas where work is carried out with a large number of continuously changing electronic documents
+A VCS allows you to return the entire project to its previous state, compare changes from a certain time, see who last changed the module that failed, who created the problem, and more.&lt;/p&gt;
+&lt;h2 id=&#34;git-advantages-and-disadvantages&#34;&gt;Git. Advantages and Disadvantages&lt;/h2&gt;
+&lt;p&gt;Git is one of the most popular version control systems in the world of software development. It was developed by Linus Torvalds in 2005 and is distinguished by its speed, flexibility, and distributed architecture. [1]
+The main features of Git include the ability to create local repositories on the developer&amp;rsquo;s computer, quick branching and merging of changes, effective project management of any size, and good support for working with branching and merging. In addition, Git has extensive capabilities for customizing the workflow and integrating with various hosting services, such as GitHub and Bitbucket. (fig. @fig:002).
+The main difference between Git and any other version control system is the way Git views its data. Basically, most other systems store information as a list of changes for files. These systems treat the stored data as a set of files and changes made to each of these files over time.&lt;/p&gt;
+&lt;h2 id=&#34;advantages-of-git&#34;&gt;Advantages of Git&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;Надежная система сравнения ревизий и проверки корректности данных.&lt;/li&gt;
-&lt;li&gt;Гибкая система ветвления проектов и слияния веток между собой.&lt;/li&gt;
-&lt;li&gt;Наличие локального репозитория, содержащего полную информацию обо всех изменениях, позволяет вести полноценный локальный контроль версий и заливать в главный репозиторий только полностью прошедшие проверку изменения.&lt;/li&gt;
-&lt;li&gt;Высокая производительность и скорость работы.&lt;/li&gt;
-&lt;li&gt;Удобный и интуитивно понятный набор команд.&lt;/li&gt;
-&lt;li&gt;Множество графических оболочек.&lt;/li&gt;
-&lt;li&gt;Возможность делать контрольные точки, в которых данные сохраняются не при помощи дельта компрессии, а полностью. Благодаря этому скорость восстановления данных уменьшается, так как за основу берется ближайшая контрольная точка, следовательно, восстановление идет от нее.&lt;/li&gt;
-&lt;li&gt;Широкая распространенность, легкая доступность и качественная документация.&lt;/li&gt;
-&lt;li&gt;Гибкость системы позволяет удобно ее настраивать и даже создавать специализированные пользовательские интерфейсы на базе Git.&lt;/li&gt;
-&lt;li&gt;Универсальный сетевой доступ с использованием протоколов http, ftp, rsync, ssh и других&lt;/li&gt;
+&lt;li&gt;A reliable system for comparing revisions and checking the correctness of data.&lt;/li&gt;
+&lt;li&gt;A flexible system for branching projects and merging branches with each other.&lt;/li&gt;
+&lt;li&gt;The presence of a local repository containing complete information about all changes allows you to maintain full local version control and upload only fully verified changes to the main repository.&lt;/li&gt;
+&lt;li&gt;High performance and speed.&lt;/li&gt;
+&lt;li&gt;A convenient and intuitive set of commands.&lt;/li&gt;
+&lt;li&gt;Multiple graphical shells.&lt;/li&gt;
+&lt;li&gt;The ability to create checkpoints where data is saved not using delta compression, but completely. Due to this, the speed of data recovery is reduced, since the closest checkpoint is taken as a basis, therefore, recovery is carried out from it.&lt;/li&gt;
+&lt;li&gt;Widespread use, easy accessibility and high-quality documentation.&lt;/li&gt;
+&lt;li&gt;The flexibility of the system allows you to conveniently configure it and even create specialized user interfaces based on Git.&lt;/li&gt;
+&lt;li&gt;Universal network access using http, ftp, rsync, ssh and other protocols&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;недостатки-git&#34;&gt;Недостатки Git&lt;/h2&gt;
+&lt;h2 id=&#34;disadvantages-of-git&#34;&gt;Disadvantages of Git&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;Unix – ориентированность. На данный момент отсутствует официальная полноценная реализация Git, совместимая с другими операционными системами, такими как Windows, Mac OS и тому подобные.&lt;/li&gt;
-&lt;li&gt;Возможные (но чрезвычайно низкие) совпадения хеш - кода отличных по содержанию ревизий.&lt;/li&gt;
-&lt;li&gt;Отслеживается только изменение всего проекта целиком, а не отдельных файлов, что может быть неудобно при работе с большими проектами, содержащими множество несвязных между собой файлов.&lt;/li&gt;
-&lt;li&gt;При начальном (первом) создании репозитория и синхронизации его с другими разработчиками, потребуется достаточно длительное время для скачивания данных, особенно, если проект большой, так как потребуется скопировать на локальный компьютер весь репозиторий&lt;/li&gt;
+&lt;li&gt;Unix-oriented. At the moment, there is no official full-fledged implementation of Git compatible with other operating systems, such as Windows, Mac OS and the like.&lt;/li&gt;
+&lt;li&gt;Possible (but extremely low) matches of the hash code of revisions with different content.&lt;/li&gt;
+&lt;li&gt;Only changes to the entire project are tracked, not individual files, which can be inconvenient when working with large projects containing many unrelated files.&lt;/li&gt;
+&lt;li&gt;When initially (first) creating a repository and synchronizing it with other developers, it will take quite a long time to download the data, especially if the project is large, since it will be necessary to copy the entire repository to the local computer&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;итог&#34;&gt;Итог&lt;/h2&gt;
-&lt;p&gt;Git, благодаря своей скорости, гибкости и распределенной архитектуре, хорошо подходит для разработки различных проектов и обладает обширными возможностями для настройки и интеграции.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>http://localhost:1313/post/data-visualization/</link>
-      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/data-visualization/</guid>
-      <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
-&lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
-&lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
-&lt;p&gt;Hugo Blox supports the popular &lt;a href=&#34;https://plot.ly/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly&lt;/a&gt; format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!&lt;/p&gt;
-&lt;p&gt;Save your Plotly JSON in your page folder, for example &lt;code&gt;line-chart.json&lt;/code&gt;, and then add the &lt;code&gt;{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code&gt; shortcode where you would like the chart to appear.&lt;/p&gt;
-&lt;p&gt;Demo:&lt;/p&gt;
-
-
-
-
-&lt;div id=&#34;chart-784961532&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-  async function fetchChartJSON() {
-    console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
-    const response = await fetch(&#39;.\/line-chart.json&#39;);
-    return await response.json();
-  }
-
-  (function() {
-    let a = setInterval( function() {
-      if ( typeof window.Plotly === &#39;undefined&#39; ) {
-        console.debug(&#39;Plotly not loaded yet...&#39;)
-        return;
-      }
-      clearInterval( a );
-
-      fetchChartJSON().then(chart =&gt; {
-        console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-784961532&#39;, chart.data, chart.layout, {responsive: true});
-      });
-    }, 500 );
-  })();
-&lt;/script&gt;
-
-&lt;p&gt;You might also find the &lt;a href=&#34;http://plotly-json-editor.getforge.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Plotly JSON Editor&lt;/a&gt; useful.&lt;/p&gt;
-&lt;h2 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h2&gt;
-&lt;p&gt;Hugo Blox supports the &lt;em&gt;Mermaid&lt;/em&gt; Markdown extension for diagrams.&lt;/p&gt;
-&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-graph TD
-A[Hard] --&amp;gt;|Text| B(Round)
-B --&amp;gt; C{Decision}
-C --&amp;gt;|One| D[Result 1]
-C --&amp;gt;|Two| E[Result 2]
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;graph TD
-A[Hard] --&gt;|Text| B(Round)
-B --&gt; C{Decision}
-C --&gt;|One| D[Result 1]
-C --&gt;|Two| E[Result 2]
-&lt;/div&gt;
-&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-sequenceDiagram
-Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
-loop Healthcheck
-    John-&amp;gt;&amp;gt;John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John--&amp;gt;&amp;gt;Alice: Great!
-John-&amp;gt;&amp;gt;Bob: How about you?
-Bob--&amp;gt;&amp;gt;John: Jolly good!
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;sequenceDiagram
-Alice-&gt;&gt;John: Hello John, how are you?
-loop Healthcheck
-    John-&gt;&gt;John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John--&gt;&gt;Alice: Great!
-John-&gt;&gt;Bob: How about you?
-Bob--&gt;&gt;John: Jolly good!
-&lt;/div&gt;
-&lt;p&gt;An example &lt;strong&gt;class diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-classDiagram
-Class01 &amp;lt;|-- AveryLongClass : Cool
-Class03 *-- Class04
-Class05 o-- Class06
-Class07 .. Class08
-Class09 --&amp;gt; C2 : Where am i?
-Class09 --* C3
-Class09 --|&amp;gt; Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-Class08 &amp;lt;--&amp;gt; C2: Cool label
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;classDiagram
-Class01 &lt;|-- AveryLongClass : Cool
-Class03 *-- Class04
-Class05 o-- Class06
-Class07 .. Class08
-Class09 --&gt; C2 : Where am i?
-Class09 --* C3
-Class09 --|&gt; Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-Class08 &lt;--&gt; C2: Cool label
-&lt;/div&gt;
-&lt;p&gt;An example &lt;strong&gt;state diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-stateDiagram
-[*] --&amp;gt; Still
-Still --&amp;gt; [*]
-Still --&amp;gt; Moving
-Moving --&amp;gt; Still
-Moving --&amp;gt; Crash
-Crash --&amp;gt; [*]
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;stateDiagram
-[*] --&gt; Still
-Still --&gt; [*]
-Still --&gt; Moving
-Moving --&gt; Still
-Moving --&gt; Crash
-Crash --&gt; [*]
-&lt;/div&gt;
-&lt;h2 id=&#34;data-frames&#34;&gt;Data Frames&lt;/h2&gt;
-&lt;p&gt;Save your spreadsheet as a CSV file in your page&amp;rsquo;s folder and then render it by adding the &lt;em&gt;Table&lt;/em&gt; shortcode to your page:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&amp;lt;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;table&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;path&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;results.csv&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;header&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;true&amp;#34;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;caption&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Table 1: My results&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;}}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;table class=&#34;table-auto w-full&#34;&gt;
-  
-    
-    
-    &lt;thead&gt;
-      &lt;tr&gt;  &lt;th class=&#34;border-b dark:border-slate-600 font-medium p-4 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left&#34;&gt;customer_id&lt;/th&gt;  &lt;th class=&#34;border-b dark:border-slate-600 font-medium p-4 pt-0 pb-3 text-slate-400 dark:text-slate-200 text-left&#34;&gt;score&lt;/th&gt;  &lt;/tr&gt;
-    &lt;/thead&gt;
-  
-  &lt;tbody&gt;
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;1&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;0&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;2&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;text&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;0.5&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-    &lt;tr&gt;
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;3&lt;/td&gt;
-        
-      
-        
-          &lt;td data-table-dtype=&#34;number&#34; class=&#34;border-b border-slate-100 dark:border-slate-700 p-4 text-slate-500 dark:text-slate-400&#34;&gt;1&lt;/td&gt;
-        
-      
-    &lt;/tr&gt;
-  
-  &lt;/tbody&gt;
-  
-    &lt;caption class=&#34;table-caption&#34;&gt;Table 1: My results&lt;/caption&gt;
-  
-&lt;/table&gt;
-
-&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Git, due to its speed, flexibility and distributed architecture, is well suited for developing various projects and has extensive customization and integration capabilities.&lt;/p&gt;
 </description>
     </item>
     
